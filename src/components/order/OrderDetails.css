@@ -1,0 +1,21 @@
+.details-window{
+  
+  min-height: calc(100vh - 126px);
+    background:linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('/olivegrove/images/bg5.jpg')center/cover fixed no-repeat;
+  
+  padding: 8rem 0;
+}
+.btn-pnk{
+  color: #eee;
+  background: #7E165B;
+}
+.details-input{
+  background: rgba(81, 53, 41, 0.6);
+  border: none;
+  color: #eee;
+}
+.details-input:focus{
+  background: rgba(81, 53, 41, 0.6);
+  border: none;
+  color: #eee;
+}

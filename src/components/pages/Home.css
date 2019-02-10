@@ -1,0 +1,15 @@
+header{
+  min-height: calc(100vh);
+  background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/olivegrove/images/hero.jpg')center/cover fixed no-repeat;
+  position: relative;
+  /* padding: 5rem 0; */
+}
+.header-details{
+  height: 100vh;
+  color: #fff;
+}
+.logo-main{
+  max-width: 20rem;
+  opacity: 0.8;
+  margin-bottom: 3rem;
+}

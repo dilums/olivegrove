@@ -1,0 +1,27 @@
+nav{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 3.5rem;
+  background: #151515;
+  z-index: 10;
+  color: #eee;
+}
+.nav-bar{
+  height: 3.5rem;
+}
+.navbar-links{
+
+}
+nav a{
+  color: inherit;
+  margin-right: 2rem;
+}
+nav svg{
+  fill: #fff;
+
+}
+.navlogo{
+  opacity: 0.6;
+}

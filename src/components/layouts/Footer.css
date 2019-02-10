@@ -1,0 +1,36 @@
+footer{
+  padding: 1em 0;
+  color: #7E7B81;
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('/olivegrove/images/footer.jpg');
+  background-repeat:repeat;
+}
+.heart{
+  color: #7E165B;
+}
+/* .social-icons{
+  font-size: 1rem;
+} */
+/* .fab{
+  
+} */
+.social-icon{
+  margin-right: 1rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  border: 1px solid #7E7B81;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-footer{
+  max-width: 6rem;
+  opacity: 0.5;
+}
+
+@media screen and (min-width:800px){
+  footer{
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/olivegrove/images/footer.jpg');
+
+  }
+}

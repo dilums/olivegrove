@@ -1,0 +1,17 @@
+.complete-window{
+  
+  min-height: calc(100vh - 118px);
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/olivegrove/images/bg7.jpg')center/cover fixed no-repeat;
+    position: relative;
+    /* padding: 5rem 0; */
+  
+}
+.complete-message{
+  height: calc(100vh - 118px);
+  color: rgba(204, 204, 204,0.6);
+}
+.bon-appetit{
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  margin-top:2rem;
+}

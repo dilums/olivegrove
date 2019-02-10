@@ -1,0 +1,21 @@
+.icon-round{
+  border: 1px solid #383737;
+  width: 1.7rem;
+  height: 1.7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  color: #504f4f;
+}
+.icon-delete{
+  color: #e04226;
+}
+.cart-item{
+  border: 1px solid rgb(112, 111, 111);
+}
+.icon-btn{
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
